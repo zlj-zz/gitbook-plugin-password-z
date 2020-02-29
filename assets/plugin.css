@@ -1,0 +1,12 @@
+.book {
+    display: none;
+}
+
+.modal {
+    background-image: url(https://cn.bing.com/th?id=OHR.OtterCreekVT_EN-CN6409944679_UHD.jpg);
+    display: block;
+}
+
+.modal form {
+    margin: auto;
+}

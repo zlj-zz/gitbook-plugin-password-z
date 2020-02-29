@@ -1,0 +1,8 @@
+{
+  "name": "gitbook-plugin-bootstrap-table",
+  "version": "0.0.1",
+  "description": "This is my first GitBook plugin",
+  "engines": {
+      "gitbook": ">1.x.x"
+  }
+}
