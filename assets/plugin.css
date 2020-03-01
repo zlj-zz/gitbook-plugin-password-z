@@ -10,3 +10,13 @@
 .modal form {
     margin: auto;
 }
+
+.modal form input {
+    min-width: 300px;
+    min-height: 40px;
+}
+
+.modal form button {
+    min-width: 80px;
+    min-height: 40px;
+}
