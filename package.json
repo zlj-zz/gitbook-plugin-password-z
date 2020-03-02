@@ -1,7 +1,7 @@
 {
   "name": "gitbook-plugin-password",
-  "version": "0.0.1",
-  "description": "This is my first GitBook plugin",
+  "version": "0.0.2",
+  "description": "Password Plugin for Gitbook",
   "engines": {
       "gitbook": ">1.x.x"
   }
