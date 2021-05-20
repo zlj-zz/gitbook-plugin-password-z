@@ -37,7 +37,7 @@ require([
         '<label for="inputPassword" class="sr-only">Password</label>',
         '<input type="password" class="form-control" id="inputPassword" placeholder="Password">',
         "</div>",
-        '<button type="submit" class="btn btn-dark mb-2">Submit</button>',
+        '<button type="submit" class="btn btn-dark mx-sm-3 mb-2">Submit</button>',
         "</form>",
         "</div>",
         "</div>",
