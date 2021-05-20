@@ -16,10 +16,10 @@
   align-items: center;
   min-height: calc(100% - 1rem);
 }
-  .mx-sm-3 {
-    margin-right: 1rem !important;
-    margin-left: 1rem !important;
-  }
+.mx-sm-3 {
+  margin-right: 1rem !important;
+  margin-left: 1rem !important;
+}
 .mb-2 {
   margin-bottom: 0.5rem !important;
 }
@@ -70,29 +70,26 @@
 }
 /*end*/
 
-
-
-
 .book {
-    display: none;
+  display: none;
 }
 
 .modal {
-    background-image: url(https://cn.bing.com/th?id=OHR.OtterCreekVT_EN-CN6409944679_UHD.jpg);
-    display: block;
+  background-image: url(https://cn.bing.com/th?id=OHR.OtterCreekVT_EN-CN6409944679_UHD.jpg);
+  display: block;
 }
 
 .modal form {
-    margin: auto;
+  margin: auto;
 }
 
 .modal form input {
-    min-width: 300px;
-    min-height: 40px;
+  min-width: 300px;
+  min-height: 40px;
 }
 
 .modal form button {
-    min-width: 80px;
-    min-height: 40px;
-    border-radius: 5px;
+  min-width: 80px;
+  min-height: 40px;
+  border-radius: 5px;
 }
