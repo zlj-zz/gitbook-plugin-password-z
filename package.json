@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-password-z",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Password Plugin for Gitbook",
   "engines": {
     "gitbook": ">1.x.x"
@@ -15,7 +15,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/zlj-zz/gitbook-plugin-password-z/issues"
   },
