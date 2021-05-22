@@ -75,7 +75,8 @@
 }
 
 .modal {
-  background-image: url(https://cn.bing.com/th?id=OHR.OtterCreekVT_EN-CN6409944679_UHD.jpg);
+  /*background-image: url(https://cn.bing.com/th?id=OHR.OtterCreekVT_EN-CN6409944679_UHD.jpg);*/
+  background-size: 100% 100%;
   display: block;
 }
 
