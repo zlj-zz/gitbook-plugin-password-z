@@ -12,15 +12,15 @@ Add the plugin to your `book.json`:
 
 Set a global password:
 
-```json
+```
 {
   "plugins" : [ "password-z" ]
-  "pluginsConfig":{
+  "pluginsConfig": {
     "password": {
-      "model":"global",
+      "model": "global",
       "settings": {
         "password": "123456",
-        "bg-img", "...",
+        "bg-img": "...",
       }
     }
   }
@@ -29,20 +29,22 @@ Set a global password:
 
 Set a separate password for each page:
 
-```json
+```
 {
   "plugins" : [ "password-z" ]
-  "pluginsConfig":{
+  "pluginsConfig": {
     "password": {
       "model":"global",
       "settings": {
           "<file name>": {
             "password": "123456",
-            "bg-img", "...",
+            "bg-img": "...",
           },
-          ...
+          ...,
       }
     }
   }
 }
 ```
+
+> model: `global`, `chapter`, `file`
